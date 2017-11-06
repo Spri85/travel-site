@@ -5,9 +5,18 @@
       float: left;
       width: 33.33%;
     }
+
+    &__medium-4--large {
+      width: 37%;
+    }
+
     &__medium-8 {
       float: left;
-      width: 66.66%
+      width: 66.66%; 
+    }
+
+    &__medium-8--smaller {
+      width: 63%;
     }
   }
   &--gutters {
