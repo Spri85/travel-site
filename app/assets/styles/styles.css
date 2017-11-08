@@ -13,7 +13,12 @@
 @import "modules/_feature-item";
 @import "modules/_testimonial";
 @import "modules/_site-footer";
+<<<<<<< HEAD
 @import "modules/_sprite";
+=======
+@import "modules/_site-header";
+@import "modules/_primary-nav";
+>>>>>>> header
 
 
 
